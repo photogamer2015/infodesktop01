@@ -131,7 +131,7 @@
             width: 200px;
     
     }
-    .navbar ul {
+    .navbar{
             flex-direction: column;
             justify-content: center;
         }
