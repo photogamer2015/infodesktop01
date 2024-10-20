@@ -1,7 +1,7 @@
 .logo{
     width: 200px;
     height: 200px;
-    margin-left: 50%;
+    margin-left: 43%;
     border-radius: 5%;
 }
 .container {
@@ -25,14 +25,14 @@
 }
 .button{
     
-    margin-left: 10%;
+    margin-left: 25%;
     padding: 15px;
     background-color: black;
     color: white;
     border-radius: 5%;
 }
 .button2{
-    margin-left: 10%;
+    margin-left: 2%;
     padding: 15px;
     background-color: black;
     color: white;
