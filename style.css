@@ -124,8 +124,15 @@
 }
 .resolution{
     width: 100%;
-   
-
+}
+@media (max-width: 800px){
+.logo{
+            height: 150px;
+            width: 200px;
+    
+    }
  }
+
+
 
 
