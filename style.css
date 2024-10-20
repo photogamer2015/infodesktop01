@@ -131,6 +131,11 @@
             width: 200px;
     
     }
+    .navbar ul {
+            flex-direction: column;
+            justify-content: center;
+        }
+    
  }
 
 
