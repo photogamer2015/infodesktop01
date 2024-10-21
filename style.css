@@ -81,7 +81,7 @@ transform: scale(1.05);
     transform: scale(1.05); /* Efecto de zoom al hacer hover */
   }
 .link{
-    text-decorative: none;
+    text-decoration: none;
 }
 .link:hover{
 color:red;
