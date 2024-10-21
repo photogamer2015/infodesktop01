@@ -33,6 +33,7 @@
 }
 .button:hover{
 transform: scale(1.05);
+color:red;
 }
 .button2{
     margin-left: 2%;
@@ -43,6 +44,7 @@ transform: scale(1.05);
 }
 .button2:hover{
 transform: scale(1.05);
+color:red;
 }
 
 .intro{
@@ -86,6 +88,7 @@ transform: scale(1.05);
 .link:hover{
 color:red;
 }
+
 .footer {
     background-color: #333;
     color: white;
