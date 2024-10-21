@@ -31,12 +31,18 @@
     color: white;
     border-radius: 5%;
 }
+.button:hover{
+transform: scale(1.05);
+}
 .button2{
     margin-left: 2%;
     padding: 15px;
     background-color: black;
     color: white;
     border-radius: 5%;
+}
+.button2:hover{
+transform: scale(1.05);
 }
 
 .intro{
@@ -76,6 +82,9 @@
   }
 .link{
     text-decorative: none;
+}
+.link:hover{
+color:red;
 }
 .footer {
     background-color: #333;
