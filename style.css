@@ -44,14 +44,8 @@
     text-align: justify;
     background-color: black;
     color: white;
-    padding: 20px;
+    padding: 50px;
     margin: 0;
-
-}
-.intro2{
-    background-color: black;
-    margin:0;
-    padding: 100px;
 }
 .presentation{
     text-align: center;
