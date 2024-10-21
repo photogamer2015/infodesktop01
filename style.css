@@ -88,6 +88,9 @@ color:red;
 .link:hover{
 color:red;
 }
+.link{
+    text-align: center;
+}
 
 .footer {
     background-color: #333;
