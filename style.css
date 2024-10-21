@@ -48,6 +48,11 @@
     margin: 0;
 
 }
+.intro2{
+    background-color: black;
+    margin:0;
+    padding: 20px;
+}
 .presentation{
     text-align: center;
     background-color: black;
