@@ -74,6 +74,9 @@
   .image-container:hover {
     transform: scale(1.05); /* Efecto de zoom al hacer hover */
   }
+.link{
+    text-decorative: none;
+}
 .footer {
     background-color: #333;
     color: white;
