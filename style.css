@@ -140,7 +140,7 @@ color:red;
     margin-top: 20px;
 }
 .resolution{
-    width: 120%;
+    width: 100%;
 }
 @media (max-width: 800px){
 .navbar {
