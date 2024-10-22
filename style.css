@@ -28,37 +28,37 @@
     margin-left: 25%;
     padding: 15px;
     background-color: black;
-    color: white;
+    color: aliceblue;
     border-radius: 5%;
 }
 .button:hover{
 transform: scale(1.05);
-color:red;
+color:rgb(129, 228, 120);
 }
 .button2{
     margin-left: 2%;
     padding: 15px;
     background-color: black;
-    color: white;
+    color: rgb(129, 228, 120);
     border-radius: 5%;
 }
 .button2:hover{
 transform: scale(1.05);
-color:red;
+color:rgb(129, 228, 120);
 }
 
 .intro{
     text-align: center;
     text-align: justify;
     background-color: black;
-    color: white;
+    color: aliceblue;
     padding: 50px;
     margin: 0;
 }
 .presentation{
     text-align: center;
     background-color: black;
-    color: white;
+    color: aliceblue;
    
 }
 .image-container {
@@ -86,7 +86,7 @@ color:red;
     text-decoration: none;
 }
 .link:hover{
-color:red;
+color: red;
 }
 .link{
     text-align: center;
@@ -144,10 +144,10 @@ color:red;
 }
 @media (max-width: 800px){
 .logo{
-     width: 100%;
-     height: 100%;
+     width: 50%;
+     height: 50%;
     margin-top: 0;
-    margin-right: 20%;
+    justify-content: center;
 }
 
 .navbar {
