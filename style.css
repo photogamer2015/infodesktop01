@@ -167,17 +167,20 @@ color:red;
     margin-left: 0;
 }
 .footer {
-    flex-direction: column;
+    flex-direction:row;
+    align-items: center;
 }
 .footer.container {
     flex-direction: column;
 }
 .footer.container div {
-    padding: 5px;
+    padding: 10px 0;
+    margin-top: 10px;
 }
 .footer.social-icons {
     margin-top: 0;
 }
+
  }
 
 
