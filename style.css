@@ -141,7 +141,6 @@ color:red;
 }
 .resolution{
     width: 150%;
-    text-align:justify;
 }
 @media (max-width: 800px){
 .navbar {
