@@ -146,6 +146,7 @@ color:red;
 .logo {
     width: 150px;
     height: 150px;
+    margin-right: 20%;
 }
 .navbar {
     flex-direction: column;
@@ -157,10 +158,10 @@ color:red;
     margin-left: 0;
 }
 .intro{
-    font-size: 25px;
+    font-size: 40px;
 }
 .presentation{
-    font-size: 25px;
+    font-size: 40px;
 }
 .image-container {
     width: 100%;
@@ -174,7 +175,7 @@ color:red;
     flex-direction: column;
 }
 .footer.container div {
-    padding: 20px 0;
+    padding: 20px 10px;
     margin-top: 20px;
 }
 .footer.social-icons {
