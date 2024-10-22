@@ -140,14 +140,13 @@ color:red;
     margin-top: 20px;
 }
 .resolution{
-    width: 100%;
+    width: 150%;
     text-align: center;
 }
 @media (max-width: 800px){
 .logo {
     width: 150px;
     height: 150px;
-    margin-right: 35%;
 }
 .navbar {
     flex-direction: column;
