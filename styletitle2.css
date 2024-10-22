@@ -1,0 +1,104 @@
+body{
+    background-color: black;
+}
+header{
+    background-color: black;
+}
+.logo{
+    margin-top: 2%;
+    margin-right: 3%;
+    width: 100px;
+    height: 100px;
+}
+.titulo{
+    color: azure;
+    text-align: justify;
+    margin-left: 6%;
+    margin-inline-start: 15%;
+}
+
+.subtitulo{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px;
+    margin-top: 1px;
+}
+.navbar {
+    border-radius: 8px; /* Bordes redondeados */
+    overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
+}
+.button{
+    
+    margin-left: 28%;
+    padding: 15px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5%;
+    font-weight: 800;
+}
+.button2{
+    margin-left: 4%;
+    padding: 15px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5%;
+    font-weight: 800;
+    font-size: 12px;
+}
+.text{
+    text-align: center;
+    text-align: justify;
+    background-color: aliceblue;
+    color: black;
+    padding: 18px;
+    margin: 0%;
+}
+.list{
+    text-align: justify;
+}
+.text-list{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+    margin: 0%;
+}
+.button:hover{
+    transform: scale(1.05);
+    color: rgb(22, 121, 13);
+    }
+
+    .button2:hover{
+        transform: scale(1.05);
+        color: rgb(22, 121, 13);
+        }
+
+        .image-container {
+            margin-left: 400px;
+            width: 400px; /* Ajusta el tamaño según tus necesidades */
+            height: auto; /* Mantiene la proporción de la imagen */
+            overflow: hidden; /* Oculta cualquier desbordamiento de la imagen */
+            position: relative; /* Necesario para el posicionamiento de los elementos hijos */
+            border-radius: 15px; /* Bordes redondeados */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+            transition: transform 0.3s ease-in-out; /* Transición para el efecto de hover */
+          }
+          
+          .image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Asegura que la imagen cubra el contenedor */
+            border-radius: 15px; /* Bordes redondeados */
+          }
+          
+          .image-container:hover {
+            transform: scale(1.05); /* Efecto de zoom al hacer hover */
+          }      
+.resolution{
+    width: 100%;
+ }
+ 
