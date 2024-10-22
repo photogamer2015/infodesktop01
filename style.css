@@ -150,7 +150,7 @@ color: red;
      width: 50%;
      height: 50%;
     margin-top: 0;
-    float:left;
+ position: fixed; top: 0; right: 5;
 }
 
 .navbar {
