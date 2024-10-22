@@ -150,10 +150,10 @@ color: red;
 }
 @media (max-width: 800px){
 .logo{
-     width: 25%;
-     height: 25%;
+     width: 50%;
+     height: 50%;
     margin: 0;
-    margin-left: 10%;
+    margin-left: 20%;
     
 }
 
