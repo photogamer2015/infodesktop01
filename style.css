@@ -140,8 +140,8 @@ color:red;
     margin-top: 20px;
 }
 .resolution{
-    width: 160%;
-    text-align: center;
+    width: 150%;
+    text-align:justify;
 }
 @media (max-width: 800px){
 .navbar {
