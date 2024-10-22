@@ -66,6 +66,7 @@ header{
     background-color: aliceblue;
     color: black;
     margin: 0%;
+    padding:30px;
 }
 .button:hover{
     transform: scale(1.05);
