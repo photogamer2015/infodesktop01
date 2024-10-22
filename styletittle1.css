@@ -61,6 +61,9 @@ header{
     padding: 18px;
     margin: 0%;
 }
+.iframe{
+    margin-left: 32%;
+}
 
 .resolution{
     width: 100%;
