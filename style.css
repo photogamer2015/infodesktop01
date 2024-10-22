@@ -143,16 +143,41 @@ color:red;
     width: 100%;
 }
 @media (max-width: 800px){
-.logo{
-            height: 150px;
-            width: 200px;
-    
-    }
-    .navbar{
-            flex-direction: column;
-            justify-content: center;
-        }
-    
+.logo {
+    width: 150px;
+    height: 150px;
+}
+.navbar {
+    flex-direction: column;
+}
+.button{
+    margin-left: 0;
+}
+.button2{
+    margin-left: 0;
+}
+.intro{
+    font-size: 18px;
+}
+.presentation{
+    font-size: 18px;
+}
+.image-container {
+    width: 100%;
+    margin-left: 0;
+}
+.footer {
+    flex-direction: column;
+}
+.footer.container {
+    flex-direction: column;
+}
+.footer.container div {
+    padding: 5px;
+}
+.footer.social-icons {
+    margin-top: 0;
+}
  }
 
 
