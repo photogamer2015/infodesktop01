@@ -149,8 +149,7 @@ color: red;
 .logo{
      width: 50%;
      height: 50%;
-    margin-top: 0;
- position: fixed; top: 0; right: 5;
+    margin: 0 auto;
 }
 
 .navbar {
