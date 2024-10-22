@@ -144,16 +144,11 @@ color:red;
     text-align: center;
 }
 @media (max-width: 800px){
-.logo {
-    margin-left: 40%;
-    width: 200px;
-    height: 150px;
-}
 .navbar {
     flex-direction: column;
 }
 .button{
-    margin-left: 0;
+    margin-left: 5%;
 }
 .button2{
     margin-left: 5%;
