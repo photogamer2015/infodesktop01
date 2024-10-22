@@ -147,9 +147,10 @@ color: red;
 }
 @media (max-width: 800px){
 .logo{
-     width: 50%;
-     height: 50%;
+     width: 25%;
+     height: 25%;
     margin: 20%;
+    margin-top: 0;
     
 }
 
