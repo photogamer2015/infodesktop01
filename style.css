@@ -145,6 +145,7 @@ color:red;
 }
 @media (max-width: 800px){
 .logo {
+    margin-left: 40%;
     width: 200px;
     height: 150px;
 }
@@ -155,7 +156,7 @@ color:red;
     margin-left: 0;
 }
 .button2{
-    margin-left: 2%;
+    margin-left: 5%;
 }
 .intro{
     font-size: 20px;
