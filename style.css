@@ -141,12 +141,13 @@ color:red;
 }
 .resolution{
     width: 100%;
+    text-align: center;
 }
 @media (max-width: 800px){
 .logo {
     width: 150px;
     height: 150px;
-    margin-right: 28%;
+    margin-right: 35%;
 }
 .navbar {
     flex-direction: column;
