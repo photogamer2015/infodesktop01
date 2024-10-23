@@ -210,6 +210,10 @@ header{
         margin-left: 0;
         margin-right: 0;
         width: 20%;
+        height: auto;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
     .list{
         font-size: 14px;
