@@ -208,11 +208,7 @@ header{
         padding: 15px;
     }
     .videos-container{
-        margin-left: 0;
-        margin-right: 0;
         width: 20%;
-        height: auto;
-        text-align: center;
         text-align: justify;
     }
     .list{
