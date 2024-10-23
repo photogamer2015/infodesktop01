@@ -83,7 +83,7 @@ header{
         color: rgb(22, 121, 13);
         }
 .image-container {
-            margin-left: 400px;
+            margin-left: 200px;
             width: 400px; /* Ajusta el tamaño según tus necesidades */
             height: auto; /* Mantiene la proporción de la imagen */
             overflow: hidden; /* Oculta cualquier desbordamiento de la imagen */
