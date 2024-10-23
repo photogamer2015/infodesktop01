@@ -211,9 +211,8 @@ header{
         margin-right: 0;
         width: 20%;
         height: auto;
-        margin-bottom: 10px;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        text-align: center;
+        text-align: justify;
     }
     .list{
         font-size: 14px;
