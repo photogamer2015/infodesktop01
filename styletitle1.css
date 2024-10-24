@@ -62,9 +62,9 @@ header{
     margin: 0%;
 }
 .videos-container{
-    margin-right: 10%;
+    margin-right: 20%;
     text-align: justify;
-    text-align:center;
+    
 }
 .list{
     text-align: justify;
@@ -216,6 +216,7 @@ header{
         margin-bottom: 10px;
         width: 60px;
         height: 60px;
+        text-align: center;
     }
     .list{
         font-size: 12px;
