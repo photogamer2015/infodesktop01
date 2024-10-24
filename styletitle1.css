@@ -162,7 +162,7 @@ header{
     .titulo{
         margin-left: 3%;
         margin-inline-start: 10%;
-        font-size: 15px;
+        font-size: 12px;
     }
     .subtitulo{
         margin-left: 3%;
@@ -177,7 +177,7 @@ header{
         padding: 20px;
         margin-top: 5px;
         margin-bottom: 5px;
-        font-size: 16px;
+        font-size: 14px;
     }
     .navbar {
         flex-direction: column;
@@ -190,7 +190,7 @@ header{
         padding: 15px;
         margin-top: 5px;
         margin-bottom: 5px;
-        font-size: 16px;
+        font-size: 14px;
     }
     .button{
         margin-left: 0;
@@ -221,7 +221,7 @@ header{
 
     }
     .text-list{
-        font-size: 18px;
+        font-size: 14px;
         padding: 15px;
         margin-left: 0;
     }
