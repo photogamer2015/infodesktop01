@@ -62,11 +62,10 @@ header{
     margin: 0%;
 }
 .videos-container{
-    margin-right: 10%;
+    margin-left: 10%;
     text-align: justify;
     background-color: aliceblue;
-    padding: 60%;
-    margin: 0%;
+  
 }
 .list{
     text-align: justify;
