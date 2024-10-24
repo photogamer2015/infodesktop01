@@ -211,7 +211,10 @@ header{
         padding: 15px;
     }
     .videos-container{
-        text-align: center;
+         margin-left: 0;
+        margin-right: 0;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
     .list{
         font-size: 12px;
