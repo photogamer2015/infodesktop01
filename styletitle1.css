@@ -63,7 +63,8 @@ header{
 }
 .videos-container{
     margin-left: 30%;
-    text-align: justify
+    text-align: justify;
+    background-color: aliceblue;
 }
 .list{
     text-align: justify;
