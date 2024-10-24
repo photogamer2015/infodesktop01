@@ -4,9 +4,9 @@ background-color: aliceblue;
 .logo{
     width: 200px;
     height: 200px;
-    margin-left: 10%;
+    margin-right: 20%;
     border-radius: 5%;
-    text-align: center;
+   
 }
 .container {
     width: 100%;
