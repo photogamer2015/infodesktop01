@@ -62,7 +62,7 @@ header{
     margin: 0%;
 }
 .videos-container{
-    margin-left: 5%;
+    margin-right: 10%;
     text-align: justify;
     background-color: aliceblue;
 }
@@ -209,7 +209,7 @@ header{
         padding: 15px;
     }
     .videos-container{
-        text-align: right;
+        text-align: center;
     }
     .list{
         font-size: 12px;
