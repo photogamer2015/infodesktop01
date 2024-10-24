@@ -214,6 +214,8 @@ header{
         margin-right: 0;
         margin-top: 10px;
         margin-bottom: 10px;
+        width: 60%;
+        height: 100%;
     }
     .list{
         font-size: 12px;
