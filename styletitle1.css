@@ -213,6 +213,8 @@ header{
     .videos-container{
          margin-left: 0;
         margin-right: 0;
+        width: 50px;
+        heigth: 50px;
     }
     .list{
         font-size: 12px;
