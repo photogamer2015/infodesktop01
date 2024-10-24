@@ -65,6 +65,8 @@ header{
     margin-right: 10%;
     text-align: justify;
     background-color: aliceblue;
+    padding: 30px;
+    margin: 0, auto;
 }
 .list{
     text-align: justify;
